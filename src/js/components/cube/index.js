@@ -17,9 +17,9 @@ const CONFIG = {
   rotateY: 1,
   rotateZ: 1,
   scale: 1,
-  borderWidth: 0.008,
-  displacementLength: 0.028,
-  reflectionOpacity: 0.3,
+  borderWidth: 0.016,
+  displacementLength: 0.06,
+  reflectionOpacity: 0.4,
   scene: 3,
 }
 
