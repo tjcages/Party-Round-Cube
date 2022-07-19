@@ -1,7 +1,3 @@
-/**
- * @author Lorenzo Cadamuro / http://lorenzocadamuro.com
- */
-
 import {mat4} from 'gl-matrix'
 import stats from '~js/helpers/stats'
 import gui from '~js/helpers/gui'
